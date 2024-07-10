@@ -1,2 +1,2 @@
-# telegram-link.github.io
-telegram-link.github.io
+# telegrams-link.github.io
+telegrams-link.github.io
